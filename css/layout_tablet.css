@@ -5,6 +5,9 @@
 .menu-header {
     width: 100%;
 }
+#icone-menu{
+    display: none;
+}
 
 .conteudo-sobre {
     flex-direction: column;

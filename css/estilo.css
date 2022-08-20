@@ -37,6 +37,10 @@ header {
     align-items: center;
 }
 
+#icone-menu{
+    display: none;
+}
+
 .menu-header a {
     color: white;
     text-decoration: none;
